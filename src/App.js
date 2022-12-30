@@ -77,7 +77,7 @@ const App = () => {
                       <h5 className='name_country'>Name contry: { country.Country }</h5>
                       <p className='mb-0'>Total Confirmed: { country.TotalConfirmed.toLocaleString() }</p>
                       <p className='mb-0'>Total Deaths: { country.TotalDeaths.toLocaleString() }</p>
-                      <p className='mb-0'>Total Recovered: { country.TotalRecovered.toLocaleString() } 1</p>
+                      <p className='mb-0'>Total Recovered: { country.TotalRecovered.toLocaleString() } 12</p>
                     </div>
                   </Col>
                 </Row>
